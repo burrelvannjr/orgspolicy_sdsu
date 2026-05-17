@@ -1,7 +1,7 @@
 # PA 646: Advocacy Organizations and Policy Change
 **San Diego State University — Term & Year**
 
-A graduate seminar examining how social movements, advocacy organizations, nonprofits, and interest groups shape the development and implementation of public policy.
+> *A graduate seminar examining how social movements, advocacy organizations, nonprofits, and interest groups shape the development and implementation of public policy.*
 
 
 ## Course Information
